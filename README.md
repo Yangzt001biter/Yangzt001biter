@@ -1,6 +1,6 @@
 ## Hi, I'm Zetao Yang 👋
 
-MS student at the **School of Mathematics and Statistics, Beijing Institute of Technology (BIT)**.
+Undergraduate student at the **School of Mathematics and Statistics, Beijing Institute of Technology (BIT)**.
 Working on **machine learning for chip design** — physics-informed neural architectures and reinforcement learning for EDA optimization.
 
 ### 🔬 Research Interests
@@ -19,7 +19,6 @@ Working on **machine learning for chip design** — physics-informed neural arch
 ### 📫 Contact
 
 - Email: `zetao2100@gmail.com` · `1120220294@bit.edu.cn`
-- Google Scholar: *(link coming soon)*
 
 ---
 
